@@ -31,10 +31,10 @@ ExtraPackages svn system opkg https://github.com/openwrt/openwrt/trunk/package/s
 ExtraPackages git lean luci-app-autoupdate https://github.com/Hyy2001X main
 ExtraPackages git lean luci-theme-argon https://github.com/jerrykuku 18.06
 ExtraPackages git lean luci-app-argon-config https://github.com/jerrykuku master
-ExtraPackages git lean luci-app-adguardhome https://github.com/Hyy2001X master
-ExtraPackages svn lean luci-app-smartdns https://github.com/project-openwrt/openwrt/trunk/package/ntlf9t
-ExtraPackages svn lean smartdns https://github.com/project-openwrt/openwrt/trunk/package/ntlf9t
-ExtraPackages git lean OpenClash https://github.com/vernesong master
+# ExtraPackages git lean luci-app-adguardhome https://github.com/Hyy2001X master
+# ExtraPackages svn lean luci-app-smartdns https://github.com/project-openwrt/openwrt/trunk/package/ntlf9t
+# ExtraPackages svn lean smartdns https://github.com/project-openwrt/openwrt/trunk/package/ntlf9t
+# ExtraPackages git lean OpenClash https://github.com/vernesong master
 ExtraPackages git lean luci-app-serverchan https://github.com/tty228 master
 ExtraPackages svn lean luci-app-socat https://github.com/xiaorouji/openwrt-package/trunk/lienol
 # ExtraPackages git lean openwrt-upx https://github.com/Hyy2001X master
